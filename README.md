@@ -1,2 +1,3 @@
 # Kaggle
-Respository for my kaggle competitions code
+Respository for my kaggle competition code
+https://www.kaggle.com/
